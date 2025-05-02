@@ -1,4 +1,4 @@
-![Haikalmuh](assets/sasukegif.gif)
+<img src="assets/sasukegif.gif" alt="gg" style="width: 100%; max-width: 800px;" />
 
 <!--
 **Haikalmuh/Haikalmuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
