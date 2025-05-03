@@ -21,11 +21,11 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-## 🎵 Song of the Week
+## 🎵 Song of the Week by Me
 
 <p align="center">
-  <a href="https://open.spotify.com/track/6Ax5lMxGrDUJz3BzMZMuJt" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a0c1c54ee2e3f6b997ef0a37" width="300" alt="Roar - Katy Perry" />
+  <a href="https://open.spotify.com/track/6Ax51MxGrDUJz3BzMZMuJt" target="_blank">
+    <img src="assets/Katy Perry - PRISM.jpg" width="300" alt="Roar - Katy Perry" />
   </a>
   <br/>
   <b>🎧 Roar - Katy Perry</b>
