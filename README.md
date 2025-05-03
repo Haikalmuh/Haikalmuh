@@ -21,6 +21,18 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+## 🎵 Song of the Week
+
+<p align="center">
+  <a href="https://open.spotify.com/track/6Ax5lMxGrDUJz3BzMZMuJt" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a0c1c54ee2e3f6b997ef0a37" width="300" alt="Roar - Katy Perry" />
+  </a>
+  <br/>
+  <b>🎧 Roar - Katy Perry</b>
+</p>
+
+
+
 <!--
 **Haikalmuh/Haikalmuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
