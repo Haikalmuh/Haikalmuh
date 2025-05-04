@@ -5,7 +5,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+everyone%2C+I'm+Haikal;A+Beginner+Frontend+Developer" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+everyone%2C+I'm+Haikal;A+Beginner+Frontend+Developer" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+World!%2C+I'm+Haikal;A+Beginner+Frontend+Developer" alt="Typing animation" />
   </picture>
 </p>
 
@@ -21,17 +21,13 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-## 🎵 Song Of The Week By Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haikalmuh/Haikalmuh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haikalmuh/Haikalmuh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Haikalmuh/Haikalmuh/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <a href="https://open.spotify.com/track/6Ax51MxGrDUJz3BzMZMuJt" target="_blank">
-    <img src="assets/Katy Perry - PRISM.jpg" width="200" alt="Roar - Katy Perry" />
-  </a>
-  <br/>
-  <b>🎧 Roar - Katy Perry</b>
-</p>
-
-
+###
 
 <!--
 **Haikalmuh/Haikalmuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
