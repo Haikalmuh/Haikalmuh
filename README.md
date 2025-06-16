@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/animegifu.gif" alt="Sasuke GIF">
+  <img src="assets/animgifua.gif" alt="Sasuke GIF">
 </p>
 
 
