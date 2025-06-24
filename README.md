@@ -9,7 +9,9 @@
   <img src="assets/animgifua.gif" alt="Sasuke GIF">
 </p>
 
-<p align="center"><strong>🔧Tech Stack</p>
+<br>
+<p align="center" style="font-size: 1.5rem;"><strong>🔧Tech Stack</p>
+<hr>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,6 +21,8 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+<hr>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haikalmuh/Haikalmuh/output/pacman-contribution-graph-dark.svg">
