@@ -28,6 +28,17 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Haikalmuh/Haikalmuh/output/pacman-contribution-graph.svg">
 </picture>
 
+<div align="center">
+
+  <!-- kiri -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Haikalmuh&theme=tokyonight&hide_border=false" alt="Streak Stats" height="180em"/>
+
+  <!-- kanan -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haikalmuh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180em"/>
+
+</div>
+
+
 ###
 
 <!--
