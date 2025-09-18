@@ -46,7 +46,7 @@
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=Haikalmuh&theme=tokyonight&hide_border=false" alt="Streak Stats" height="180em"/>
   &nbsp; <!-- kasih jarak 3 spasi -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haikalmuh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180em"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haikalmuh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180em"/> -->
 
 </div>
 
